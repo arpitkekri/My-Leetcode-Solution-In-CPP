@@ -16,7 +16,9 @@
 |---|-----| ------ | -- | --- | -------- | --- | -->
 | # | Title | Solution | Time | Space | Difficulty | Tag |
 |---| ----- | -------- | ---- | ----- | ---------- | --- |
-| 1 |[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/1.%20Two%20Sum_1.cpp) | _O(n^2)_ | _O(n)_ | Easy | Array, Hash Table |
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/1.%20Two%20Sum_1.cpp) | _O(n^2)_ | _O(n)_ | Easy | Array, Hash Table |
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/1.%20Two%20Sum_1.cpp) | _O(n^2)_ | _O(n)_ | Easy | Array, Hash Table |
+
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [C++](./algorithms/cpp/addTwoNumbers/addTwoNumbers.cpp)|Medium|
 
 
