@@ -6,4 +6,4 @@
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 ---
 
-This is a repository for leetcode solution in C++/CPP language.
+This is a repository for my solutions to the problems on the platform Leetcode in the C++/CPP language.
