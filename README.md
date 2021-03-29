@@ -14,9 +14,9 @@
 <!-- 
 | # |Title|Solution|Time|Space|Difficulty| Tag |
 |---|-----| ------ | -- | --- | -------- | --- | -->
-| # | Title                                                                                 | Solution                                                                                                       | Time   | Space  | Difficulty | Tag |
-| - | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------ | ------ | ---------- | --- |
-|1808|[Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/)|[C++](./algorithms/cpp/maximizeNumberOfNiceDivisors/MaximizeNumberOfNiceDivisors.cpp)|Hard|Array Math|
+| # | Title                              | Solution   | Time   | Space  | Difficulty | Tag |
+| - | ---------------------------------- | ---------- | ------ | ------ | ---------- | --- |
+<!-- |1808|[Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/)|[C++](./algorithms/cpp/maximizeNumberOfNiceDivisors/MaximizeNumberOfNiceDivisors.cpp)|Hard|Array Math|
 |1807|[Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | [C++](./algorithms/cpp/evaluateTheBracketPairsOfAString/EvaluateTheBracketPairsOfAString.cpp)|Medium|
 |1806|[Minimum Number of Operations to Reinitialize a Permutation](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/) | [C++](./algorithms/cpp/minimumNumberOfOperationsToReinitializeAPermutation/MinimumNumberOfOperationsToReinitializeAPermutation.cpp)|Medium|
 |1805|[Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/) | [C++](./algorithms/cpp/numberOfDifferentIntegersInAString/NumberOfDifferentIntegersInAString.cpp)|Easy|
@@ -498,8 +498,8 @@
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [C++](./algorithms/cpp/longestPalindromicSubstring/longestPalindromicSubstring.cpp)|Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| [C++](./algorithms/cpp/medianOfTwoSortedArrays/medianOfTwoSortedArrays.cpp)|Hard|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [C++](./algorithms/cpp/longestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters.cpp)|Medium|
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [C++](./algorithms/cpp/addTwoNumbers/addTwoNumbers.cpp)|Medium|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](./algorithms/cpp/twoSum/twoSum.cpp), [Go](./algorithms/golang/twoSum/twoSum.go)|Easy|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [C++](./algorithms/cpp/addTwoNumbers/addTwoNumbers.cpp)|Medium| -->
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](./CPP, C++ Solution/1. Two Sum_1.cpp)|_O(n^2)_|_O(n)_|Easy|Array Hash Table|
 
 <br/>
 <div align="right">
