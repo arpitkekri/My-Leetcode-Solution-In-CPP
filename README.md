@@ -18,7 +18,7 @@
 |---| ----- | -------- | ---- | ----- | ---------- | --- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/1.%20Two%20Sum_1.cpp) | _O(n^2)_ | _O(n)_ | Easy | Array, Hash Table |
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/289.%20Game%20of%20Life.cpp)| _O(mn)_ | _O(1)_ | Medium | Array |
-|1808|[Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/)|[C++](./CPP%2C%20C%2B%2B%20Solutions/maximizeNumberOfNiceDivisors/MaximizeNumberOfNiceDivisors.cpp)|Hard|Array Math|
+|1808|[Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/)|[C++](./CPP%2C%20C%2B%2B%20Solutions/maximizeNumberOfNiceDivisors/MaximizeNumberOfNiceDivisors.cpp)|Hard|
 |1807|[Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/evaluateTheBracketPairsOfAString/EvaluateTheBracketPairsOfAString.cpp)|Medium|
 |1806|[Minimum Number of Operations to Reinitialize a Permutation](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/minimumNumberOfOperationsToReinitializeAPermutation/MinimumNumberOfOperationsToReinitializeAPermutation.cpp)|Medium|
 |1805|[Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/numberOfDifferentIntegersInAString/NumberOfDifferentIntegersInAString.cpp)|Easy|
