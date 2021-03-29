@@ -506,6 +506,6 @@
 
 <br/>
 <div align="right">
-    <b><a href="#LeetCode Algorithms with Solution">⬆️ Back to Top</a></b>
+    <b><a href="#leetcode-algorithms-with-solution">⬆️ Back to Top</a></b>
 </div>
 <br/>
