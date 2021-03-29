@@ -14,8 +14,8 @@
 <!-- 
 | # |Title|Solution|Time|Space|Difficulty| Tag |
 |---|-----| ------ | -- | --- | -------- | --- | -->
-| # | Title                              | Solution   | Time   | Space  | Difficulty | Tag |
-| - | ---------------------------------- | ---------- | ------ | ------ | ---------- | --- |
+| #    | Title                                                                                 | Solution                                                                                                       | Time   | Space  | Difficulty | Tag |
+| ---- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------ | ------ | ---------- | --- |
 <!-- |1808|[Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/)|[C++](./algorithms/cpp/maximizeNumberOfNiceDivisors/MaximizeNumberOfNiceDivisors.cpp)|Hard|Array Math|
 |1807|[Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | [C++](./algorithms/cpp/evaluateTheBracketPairsOfAString/EvaluateTheBracketPairsOfAString.cpp)|Medium|
 |1806|[Minimum Number of Operations to Reinitialize a Permutation](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/) | [C++](./algorithms/cpp/minimumNumberOfOperationsToReinitializeAPermutation/MinimumNumberOfOperationsToReinitializeAPermutation.cpp)|Medium|
@@ -498,6 +498,7 @@
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [C++](./algorithms/cpp/longestPalindromicSubstring/longestPalindromicSubstring.cpp)|Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| [C++](./algorithms/cpp/medianOfTwoSortedArrays/medianOfTwoSortedArrays.cpp)|Hard|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [C++](./algorithms/cpp/longestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters.cpp)|Medium| -->
+| 136  | [Single Number](https://leetcode.com/problems/single-number/)                         | [Java](./Java/single-number.java) <br> [Python](./Python/single-number.py) <br> [C++](./C++/Single-Number.cpp) | _O(n)_ | _O(1)_ | Easy       |     |
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [C++](./algorithms/cpp/addTwoNumbers/addTwoNumbers.cpp)|Medium|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| 
 <!-- [C++](./CPP%2C%20C%2B%2B%20Solutions/1.%20Two%20Sum_1.cpp) | _O(n^2)_ | _O(n)_ | Easy | Array Hash Table | -->
