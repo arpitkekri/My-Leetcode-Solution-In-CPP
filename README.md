@@ -18,6 +18,8 @@
 |---| ----- | ---| ---- | ----- | ---------- | --- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/1.%20Two%20Sum_1.cpp) | _O(n^2)_ | _O(n)_ | Easy | Array, Hash Table |
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/289.%20Game%20of%20Life.cpp)| _O(mn)_ | _O(1)_ | Medium | Array |
+
+<!--
 |1808|[Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/)|[C++](./CPP%2C%20C%2B%2B%20Solutions/maximizeNumberOfNiceDivisors/MaximizeNumberOfNiceDivisors.cpp)|Hard|
 |1807|[Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/evaluateTheBracketPairsOfAString/EvaluateTheBracketPairsOfAString.cpp)|Medium|
 |1806|[Minimum Number of Operations to Reinitialize a Permutation](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/minimumNumberOfOperationsToReinitializeAPermutation/MinimumNumberOfOperationsToReinitializeAPermutation.cpp)|Medium|
@@ -61,7 +63,6 @@
 |1752|[Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/checkIfArrayIsSortedAndRotated/CheckIfArrayIsSortedAndRotated.cpp)|Easy|
 |1751|[Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/maximumNumberOfEventsThatCanBeAttended/MaximumNumberOfEventsThatCanBeAttended.II.cpp)|Hard|
 |1750|[Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/minimumLengthOfStringAfterDeletingSimilarEnds/MinimumLengthOfStringAfterDeletingSimilarEnds.cpp)|Medium|
-<!--
 |1749|[Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/maximumAbsoluteSumOfAnySubarray/MaximumAbsoluteSumOfAnySubarray.cpp)|Medium|
 |1748|[Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/sumOfUniqueElements/SumOfUniqueElements.cpp)|Easy|
 |1743|[Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/restoreTheArrayFromAdjacentPairs/RestoreTheArrayFromAdjacentPairs.cpp)|Medium|
