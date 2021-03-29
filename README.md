@@ -15,7 +15,7 @@
 | # |Title|Solution|Time|Space|Difficulty| Tag |
 |---|-----| ------ | -- | --- | -------- | --- | -->
 | # | Title | Solution | Time | Space | Difficulty | Tag |
-|---| ----- | -------- | ---- | ----- | ---------- | --- |
+|---| ----- | ---| ---- | ----- | ---------- | --- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/1.%20Two%20Sum_1.cpp) | _O(n^2)_ | _O(n)_ | Easy | Array, Hash Table |
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/289.%20Game%20of%20Life.cpp)| _O(mn)_ | _O(1)_ | Medium | Array |
 |1808|[Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/)|[C++](./CPP%2C%20C%2B%2B%20Solutions/maximizeNumberOfNiceDivisors/MaximizeNumberOfNiceDivisors.cpp)|Hard|
