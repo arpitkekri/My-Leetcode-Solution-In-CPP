@@ -19,7 +19,7 @@
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/1.%20Two%20Sum_1.cpp) | _O(n^2)_ | _O(n)_ | Easy | Array, Hash Table |
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/8.%20String%20to%20Integer%20(atoi).cpp)| _O(n)_ | _O(n)_ | Medium | Math, String |
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/289.%20Game%20of%20Life.cpp)| _O(mn)_ | _O(1)_ | Medium | Array |
-|357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/357.%20Count%20Numbers%20with%20Unique%20Digits.cpp)| _O(n)_ | _O(1)_ | Medium | Math, Dynamic Programming, Backtracking |
+|357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/357.%20Count%20Numbers%20with%20Unique%20Digits.cpp)| _O(n)_ | _O(1)_ | Medium | Math, DP, Backtracking |
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/665.%20Non-decreasing%20Array.cpp)| _O(n)_ | _O(1)_ | Medium | Array |
 |1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit.cpp)| _O(n)_ | _O(n)_ | Medium | Array, Sliding Window |
 
@@ -511,6 +511,6 @@
 
 <br/>
 <div align="right">
-    <b><a href="#leetcode-algorithms-with-solution">⬆️ Back to Top</a></b>
+    <b><a href="#my-leetcode-solution-in-cpp">⬆️ Back to Top</a></b>
 </div>
 <br/>
