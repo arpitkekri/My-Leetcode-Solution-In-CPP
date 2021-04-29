@@ -20,6 +20,7 @@
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/8.%20String%20to%20Integer%20(atoi).cpp)| _O(n)_ | _O(n)_ | Medium | Math, String |
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/289.%20Game%20of%20Life.cpp)| _O(mn)_ | _O(1)_ | Medium | Array |
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/665.%20Non-decreasing%20Array.cpp)| _O(n)_ | _O(1)_ | Medium | Array |
+|1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit.cpp)| _O(n)_ | _O(n)_ | Medium | Array, Sliding Window |
 
 <!--
 |1808|[Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/)|[C++](./CPP%2C%20C%2B%2B%20Solutions/maximizeNumberOfNiceDivisors/MaximizeNumberOfNiceDivisors.cpp)|Hard|
