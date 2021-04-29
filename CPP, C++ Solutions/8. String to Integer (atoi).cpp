@@ -26,6 +26,7 @@ public:
             else break;
         }
         if(news.size() == 0) return 0;
+        
         ans = news[0] - '0';
         for(int i = 1; i < news.size(); i++) {
             ans = ans*10 + (news[i] - '0');
