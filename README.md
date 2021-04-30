@@ -2,7 +2,7 @@
 
 <!-- Hiding total lines of code as it is private repo -->
 <!-- ![Total lines of code](https://sloc.xyz/github/arpitkekri/My-Leetcode-Solution-In-CPP)&nbsp; -->
-![Language](https://img.shields.io/badge/language-C++%2%20CPP-orange.svg)&nbsp;
+![Language](https://img.shields.io/badge/language-C++%2CCPP-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)&nbsp;
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 ---
