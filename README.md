@@ -7,7 +7,7 @@
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 ---
 
-### LeetCode Algorithms with Solution
+## LeetCode Algorithms with Solution
 
 
 - This is a repository for my solutions to the problems on the platform Leetcode in the C++/CPP language.
