@@ -26,6 +26,7 @@
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1108.%20Defanging%20an%20IP%20Address.cpp)| _O(n)_ | _O(n)_ | Easy | String |
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.cpp)| _O(n)_ | _O(n)_ | Easy | Array |
 |1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit.cpp)| _O(n)_ | _O(n)_ | Medium | Array, Sliding Window |
+|1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1470.%20Shuffle%20the%20Array.cpp)| _O(n)_ | _O(n)_ | Easy | Array |
 
 <!--
 |1808|[Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/)|[C++](./CPP%2C%20C%2B%2B%20Solutions/maximizeNumberOfNiceDivisors/MaximizeNumberOfNiceDivisors.cpp)|Hard|
