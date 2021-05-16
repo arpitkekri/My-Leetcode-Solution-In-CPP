@@ -25,6 +25,7 @@
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/215.%20Kth%20Largest%20Element%20in%20an%20Array.cpp)| _O(n*logK)_ | _O(K)_ | Medium | DnC, Heap |
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/264.%20Ugly%20Number%20II.cpp)| _O(n*logn)_ | _O(n)_ | Medium | Math, DP, Heap |
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/289.%20Game%20of%20Life.cpp)| _O(mn)_ | _O(1)_ | Medium | Array |
+|295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/295.%20Find%20Median%20from%20Data%20Stream.cpp)| _O(n*logn)_ | _O(n)_ | Hard | Heap, Design |
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/334.%20Increasing%20Triplet%20Subsequence.cpp)| _O(n)_ | _O(1)_ | Medium | Adhoc |
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/357.%20Count%20Numbers%20with%20Unique%20Digits.cpp)| _O(n)_ | _O(1)_ | Medium | Math, DP, Backtracking |
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/406.%20Queue%20Reconstruction%20by%20Height.cpp)| _O(n<sup>2</sup>)_ | _O(n)_ | Medium | Greedy |
@@ -275,7 +276,6 @@
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)  | [C++](./CPP%2C%20C%2B%2B%20Solutions/longestIncreasingSubsequence/longestIncreasingSubsequence.cpp)|Medium|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)  | [C++](./CPP%2C%20C%2B%2B%20Solutions/bullsAndCows/bullsAndCows.cpp)|Easy|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)  | [C++](./CPP%2C%20C%2B%2B%20Solutions/serializeAndDeserializeBinaryTree/SerializeAndDeserializeBinaryTree.cpp)|Medium|
-|295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/findMedianFromDataStream/FindMedianFromDataStream.cpp)|Hard|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)  | [C++](./CPP%2C%20C%2B%2B%20Solutions/nimGame/nimGame.cpp)|Easy|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/wordPattern/WordPattern.cpp)|Easy|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/gameOfLife/GameOfLife.cpp)|Medium|
