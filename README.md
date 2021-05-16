@@ -24,6 +24,7 @@
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/215.%20Kth%20Largest%20Element%20in%20an%20Array.cpp)| _O(n*logK)_ | _O(K)_ | Medium | DnC, Heap |
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/264.%20Ugly%20Number%20II.cpp)| _O(n*logn)_ | _O(n)_ | Medium | Math, DP, Heap |
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/289.%20Game%20of%20Life.cpp)| _O(mn)_ | _O(1)_ | Medium | Array |
+|334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/334.%20Increasing%20Triplet%20Subsequence.cpp)| _O(N)_ | _O(1)_ | Medium | Adhoc |
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/357.%20Count%20Numbers%20with%20Unique%20Digits.cpp)| _O(n)_ | _O(1)_ | Medium | Math, DP, Backtracking |
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/665.%20Non-decreasing%20Array.cpp)| _O(n)_ | _O(1)_ | Medium | Array |
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1108.%20Defanging%20an%20IP%20Address.cpp)| _O(n)_ | _O(n)_ | Easy | String |
