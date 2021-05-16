@@ -1,3 +1,4 @@
+// TC - O(N)
 class Solution {
 public:
     bool increasingTriplet(vector<int>& nums) {
