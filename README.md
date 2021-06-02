@@ -20,6 +20,7 @@
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/1.%20Two%20Sum_1.cpp) | _O(n<sup>2</sup>)_ | _O(n)_ | Easy | Array, Hash Table |
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/8.%20String%20to%20Integer%20(atoi).cpp)| _O(n)_ | _O(n)_ | Medium | Math, String |
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/23.%20Merge%20k%20Sorted%20Lists.cpp)| _O(n*logK)_ | _O(K)_ | Hard | Linked List, DnC, Heap |
+|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/37.%20Sudoku%20Solver.cpp)| _O(9<sup>n*n</sup>)_ | _O(n<sup>2</sup>)_ | Hard | Hash Table, BackTracking |
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/70.%20Climbing%20Stairs.cpp)| _O(n)_ | _O(1)_ | Easy | DP |
 |78|[Subsets](https://leetcode.com/problems/subsets/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/78.%20Subsets.cpp)| _O(2^n+1)_ | _O(2^n)_ | Medium | Array, Backtracking, Bit Manipulation |
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/90.%20Subsets%20II.cpp)| _O(nlonn + 2^n+1)_ | _O(2^n)_ | Medium | Array, Backtracking |
@@ -485,7 +486,6 @@
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/combinationSum/combinationSum.II.cpp)|Medium|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/combinationSum/combinationSum.cpp)|Medium|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/countAndSay/countAndSay.cpp), [Java](./algorithms/java/src/countAndSay/CountAndSay.java)|Easy|
-|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/sudokuSolver/sudokuSolver.cpp)|Hard|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/validSudoku/validSudoku.cpp)|Easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/searchInsertPosition/searchInsertPosition.cpp), [Java](./algorithms/java/src/searchInsertPosition/searchInsertPosition.java)|Medium|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/searchForRange/searchForRange.cpp), [Java](./algorithms/java/src/searchForRange/searchForRange.java)|Medium|
