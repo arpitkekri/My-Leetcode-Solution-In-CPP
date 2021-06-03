@@ -26,6 +26,7 @@
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/90.%20Subsets%20II.cpp)| _O(nlonn + 2^n+1)_ | _O(2^n)_ | Medium | Array, Backtracking |
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/134.%20Gas%20Station.cpp)| _O(n)_ | _O(1)_ | Medium | Greedy |
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/151.%20Reverse%20Words%20in%20a%20String.cpp)| _O(n)_ | _O(1)_ | Medium | String |
+|198|[House Robber](https://leetcode.com/problems/house-robber/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/198)| _O(n)_ | _O(1)_ | Medium | DP | 
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/215.%20Kth%20Largest%20Element%20in%20an%20Array.cpp)| _O(n*logK)_ | _O(K)_ | Medium | DnC, Heap |
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/264.%20Ugly%20Number%20II.cpp)| _O(n*logn)_ | _O(n)_ | Medium | Math, DP, Heap |
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/289.%20Game%20of%20Life.cpp)| _O(mn)_ | _O(1)_ | Medium | Array |
@@ -343,7 +344,6 @@
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/bitwiseANDOfNumbersRange/BitwiseAndOfNumbersRange.cpp)|Medium|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/numberOfIslands/NumberOfIslands.cpp), [Python](./algorithms/python/NumberOfIslands/numIslands.py)|Medium|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/binaryTreeRightSideView/binaryTreeRightSideView.cpp)|Medium|
-|198|[House Robber](https://leetcode.com/problems/house-robber/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/houseRobber/houseRobber.cpp), [Python](./algorithms/python/HouseRobber/rob.py)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/numberOf1Bits/numberOf1Bits.cpp)|Easy|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/reverseBits/reverseBits.cpp)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/rotateArray/rotateArray.cpp), [Java](./algorithms/java/src/rotateArray/RotateArray.java)|Easy|
