@@ -26,7 +26,8 @@
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/90.%20Subsets%20II.cpp)| _O(nlonn + 2^n+1)_ | _O(2^n)_ | Medium | Array, Backtracking |
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/134.%20Gas%20Station.cpp)| _O(n)_ | _O(1)_ | Medium | Greedy |
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/151.%20Reverse%20Words%20in%20a%20String.cpp)| _O(n)_ | _O(1)_ | Medium | String |
-|198|[House Robber](https://leetcode.com/problems/house-robber/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/198.%20House%20Robber.cpp)| _O(n)_ | _O(1)_ | Medium | DP | 
+|198|[House Robber](https://leetcode.com/problems/house-robber/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/198.%20House%20Robber.cpp)| _O(n)_ | _O(1)_ | Medium | DP |
+|213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/213.%20House%20Robber%20II.cpp)| _O(n)_ | _O(1)_ | Medium | DP |
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/215.%20Kth%20Largest%20Element%20in%20an%20Array.cpp)| _O(n*logK)_ | _O(K)_ | Medium | DnC, Heap |
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/264.%20Ugly%20Number%20II.cpp)| _O(n*logn)_ | _O(n)_ | Medium | Math, DP, Heap |
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/289.%20Game%20of%20Life.cpp)| _O(mn)_ | _O(1)_ | Medium | Array |
@@ -329,7 +330,6 @@
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/combinationSum/combinationSum.III.cpp)|Medium|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/kthLargestElementInAnArray/KthLargestElementInAnArray.cpp)|Medium|
 |214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/shortestPalindrome/ShortestPalindrome.cpp)|Hard|
-|213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/houseRobber/houseRobber.II.cpp)|Medium|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/wordSearch/wordSearch.II.cpp)|Hard|
 |211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/addAndSearchWord/AddAndSearchWord.cpp)|Medium|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/courseSchedule/CourseSchedule.II.cpp)|Medium|
