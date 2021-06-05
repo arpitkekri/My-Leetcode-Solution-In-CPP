@@ -24,6 +24,7 @@
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/70.%20Climbing%20Stairs.cpp)| _O(n)_ | _O(1)_ | Easy | DP |
 |78|[Subsets](https://leetcode.com/problems/subsets/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/78.%20Subsets.cpp)| _O(2^n+1)_ | _O(2^n)_ | Medium | Array, Backtracking, Bit Manipulation |
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/90.%20Subsets%20II.cpp)| _O(nlonn + 2^n+1)_ | _O(2^n)_ | Medium | Array, Backtracking |
+|91|[Decode Ways](https://leetcode.com/problems/decode-ways/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/91.%20Decode%20Ways.cpp)| _O(n)_ | _O(1)_ | Medium | String, DP | 
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/134.%20Gas%20Station.cpp)| _O(n)_ | _O(1)_ | Medium | Greedy |
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/151.%20Reverse%20Words%20in%20a%20String.cpp)| _O(n)_ | _O(1)_ | Medium | String |
 |198|[House Robber](https://leetcode.com/problems/house-robber/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/198.%20House%20Robber.cpp)| _O(n)_ | _O(1)_ | Medium | DP |
@@ -434,7 +435,6 @@
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/binaryTreeInorderTraversal/binaryTreeInorderTraversal.cpp)|Medium|
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/restoreIPAddresses/restoreIPAddresses.cpp)|Medium|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/reverseLinkedList/reverseLinkedList.II.cpp), [Java](./algorithms/java/src/reverseLinkedListII/ReverseLinkedListII.java), [Python](./algorithms/python/ReverseLinkedListII/reverseBetween.py)|Medium|
-|91|[Decode Ways](https://leetcode.com/problems/decode-ways/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/decodeWays/decodeWays.cpp)|Medium|
 |89|[Gray Code](https://leetcode.com/problems/gray-code/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/grayCode/grayCode.cpp)|Medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/mergeTwoSortedArray/mergeTwoSortedArray.cpp)|Easy|
 |87|[Scramble String](https://leetcode.com/problems/scramble-string/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/scrambleString/scrambleString.cpp)|Hard|
