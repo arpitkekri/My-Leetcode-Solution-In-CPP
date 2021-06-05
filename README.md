@@ -38,6 +38,7 @@
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/406.%20Queue%20Reconstruction%20by%20Height.cpp)| _O(n<sup>2</sup>)_ | _O(n)_ | Medium | Greedy |
 |456|[132 Pattern](https://leetcode.com/problems/132-pattern/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/456.%20132%20Pattern.cpp)| _O(n)_ | _O(n)_ | Medium | Stack |
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/665.%20Non-decreasing%20Array.cpp)| _O(n)_ | _O(1)_ | Medium | Array |
+|714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | [C++](./CPP%2C%20C%2B%2B%20Solutions/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.cpp)| _O(n)_ | _O(1)_ | Medium | Array, DP, Greedy |
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/973.%20K%20Closest%20Points%20to%20Origin.cpp)| _O(n + klogn)_ | _O(n<sup>2</sup>)_ | Medium | DnC, Sort, Heap |
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1108.%20Defanging%20an%20IP%20Address.cpp)| _O(n)_ | _O(n)_ | Easy | String |
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.cpp)| _O(n)_ | _O(n)_ | Easy | Array |
@@ -171,7 +172,6 @@
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/minCostClimbingStairs/MinCostClimbingStairs.cpp), [Python](./algorithms/python/MinCostClimbingStairs/minCostClimbingStairs.py)|Easy|
 |721|[Accounts Merge](https://leetcode.com/problems/accounts-merge/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/accountsMerge/AccountsMerge.cpp)|Medium|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | [Python](./algorithms/python/1-bitAnd2-bitCharacters/isOneBitCharacter.py)|Easy|
-|714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | [C++](./CPP%2C%20C%2B%2B%20Solutions/bestTimeToBuyAndSellStock/BestTimeToBuyAndSellStockWithTransactionFee.cpp)|Medium|
 |712|[Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/minimumASCIIDeleteSumForTwoStrings/MinimumAsciiDeleteSumForTwoStrings.cpp)|Medium|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/maxAreaOfIsland/MaxAreaOfIsland.cpp)|Medium|
 |687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | [Python](./algorithms/python/LongestUnivaluePath/longestUnivaluePath.py)|Easy|
