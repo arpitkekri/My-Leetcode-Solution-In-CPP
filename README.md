@@ -12,7 +12,7 @@
 
 - This is a repository for my solutions to the problems on the platform Leetcode in the C++/CPP language.
 
-- (Notes: "🔒" means you need to buy a book from Leetcode)
+* Notes: "🔒" means your subscription of [LeetCode premium membership](https://leetcode.com/subscribe/) is required for reading the question.
 
 <!-- 
 | # |Title|Solution|Time|Space|Difficulty| Tag |
