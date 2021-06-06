@@ -11,6 +11,7 @@
 
 
 - This is a repository for my solutions to the problems on the platform Leetcode in the C++/CPP language.
+(Notes: "🔒" means you need to buy a book from Leetcode)
 
 <!-- 
 | # |Title|Solution|Time|Space|Difficulty| Tag |
