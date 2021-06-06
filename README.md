@@ -21,6 +21,7 @@
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/8.%20String%20to%20Integer%20(atoi).cpp)| _O(n)_ | _O(n)_ | Medium | Math, String |
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/23.%20Merge%20k%20Sorted%20Lists.cpp)| _O(n*logK)_ | _O(K)_ | Hard | Linked List, DnC, Heap |
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/37.%20Sudoku%20Solver.cpp)| _O(9<sup>n*n</sup>)_ | _O(n<sup>2</sup>)_ | Hard | Hash Table, BackTracking |
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/53.%20Maximum%20Subarray.cpp)| _O(n)_ | _O(1)_ | Easy | Array, DnC, DP | 
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/70.%20Climbing%20Stairs.cpp)| _O(n)_ | _O(1)_ | Easy | DP |
 |78|[Subsets](https://leetcode.com/problems/subsets/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/78.%20Subsets.cpp)| _O(2^n+1)_ | _O(2^n)_ | Medium | Array, Backtracking, Bit Manipulation |
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/90.%20Subsets%20II.cpp)| _O(nlonn + 2^n+1)_ | _O(2^n)_ | Medium | Array, Backtracking |
@@ -470,7 +471,6 @@
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/mergeIntervals/mergeIntervals.cpp)|Hard|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/jumpGame/jumpGame.cpp), [Python](./algorithms/python/jumpGame/jumpGame.py)|Medium|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/spiralMatrix/spiralMatrix.cpp)|Medium|
-|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/maximumSubArray/maximumSubArray.cpp), [Java](./algorithms/java/src/MaxSubArray/MaxSubarray.java)|Medium|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/nQueens/nQueuens.II.cpp)|Hard|
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/nQueens/nQueuens.cpp)|Hard|
 |50|["Pow(x, n)"](https://leetcode.com/problems/powx-n/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/pow/pow.cpp), [Java](./algorithms/java/src/powXn/PowXn.java)|Medium|
