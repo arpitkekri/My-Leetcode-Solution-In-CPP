@@ -32,7 +32,7 @@
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/134.%20Gas%20Station.cpp)| _O(n)_ | _O(1)_ | Medium | Greedy |
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/138.%20Copy%20List%20with%20Random%20Pointer.cpp)| _O(N)_ | _O(N)_ | Hard | Hash Table, Linked List |
 |139|[Word Break](https://leetcode.com/problems/word-break/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/139.%20Word%20Break.cpp)| _O(n<sup>2</sup>)_ | _O(n)_ | Medium | DP |
-|140|[Word Break II](https://leetcode.com/problems/word-break-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/140.%20Word%20Break%20IIcpp)| _O(M^N)_ | _O(N)_ | Hard | DP, BackTracking |
+|140|[Word Break II](https://leetcode.com/problems/word-break-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/140.%20Word%20Break%20II.cpp)| _O(M^N)_ | _O(N)_ | Hard | DP, BackTracking |
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/151.%20Reverse%20Words%20in%20a%20String.cpp)| _O(n)_ | _O(1)_ | Medium | String |
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/152.%20Maximum%20Product%20Subarray.cpp)| _O(n)_ | _O(1)_ | Medium | Array, DP |
 |198|[House Robber](https://leetcode.com/problems/house-robber/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/198.%20House%20Robber.cpp)| _O(n)_ | _O(1)_ | Medium | DP |
