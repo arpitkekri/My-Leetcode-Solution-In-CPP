@@ -40,6 +40,7 @@
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/264.%20Ugly%20Number%20II.cpp)| _O(n*logn)_ | _O(n)_ | Medium | Math, DP, Heap |
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/289.%20Game%20of%20Life.cpp)| _O(mn)_ | _O(1)_ | Medium | Array |
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/295.%20Find%20Median%20from%20Data%20Stream.cpp)| _O(n*logn)_ | _O(n)_ | Hard | Heap, Design |
+|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)  | [C++](./CPP%2C%20C%2B%2B%20Solutions/300.%20Longest%20Increasing%20Subsequence.cpp)| _O(n<sup>2</sup>)_ | _O(N)_ | Medium | Binary Search, DP |
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.cpp)| _O(n)_ | _O(1)_ | Medium | DP |
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/334.%20Increasing%20Triplet%20Subsequence.cpp)| _O(n)_ | _O(1)_ | Medium | Adhoc |
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/357.%20Count%20Numbers%20with%20Unique%20Digits.cpp)| _O(n)_ | _O(1)_ | Medium | Math, DP, Backtracking |
@@ -287,7 +288,6 @@
 |304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/rangeSumQuery2D-Immutable/RangeSumQuery2dImmutable.cpp)|Medium|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)  | [C++](./CPP%2C%20C%2B%2B%20Solutions/rangeSumQuery-Immutable/rangeSumQuery-Immutable.cpp)|Easy|
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/removeInvalidParentheses/RemoveInvalidParentheses.cpp) |Hard|
-|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)  | [C++](./CPP%2C%20C%2B%2B%20Solutions/longestIncreasingSubsequence/longestIncreasingSubsequence.cpp)|Medium|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)  | [C++](./CPP%2C%20C%2B%2B%20Solutions/bullsAndCows/bullsAndCows.cpp)|Easy|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)  | [C++](./CPP%2C%20C%2B%2B%20Solutions/serializeAndDeserializeBinaryTree/SerializeAndDeserializeBinaryTree.cpp)|Medium|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)  | [C++](./CPP%2C%20C%2B%2B%20Solutions/nimGame/nimGame.cpp)|Easy|
