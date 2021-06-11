@@ -59,6 +59,7 @@
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1470.%20Shuffle%20the%20Array.cpp)| _O(n)_ | _O(n)_ | Easy | Array |
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1480.%20Running%20Sum%20of%201d%20Array.cpp)| _O(n)_ | _O(1)_ | Easy | Array |
 |1886|[Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1886.%20Determine%20Whether%20Matrix%20Can%20Be%20Obtained%20By%20Rotation.cpp)| _O(n)_ | _O(1)_ | Easy | Array |
+|1887|[Reduction Operations to Make the Array Elements Equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1887.%20Reduction%20Operations%20to%20Make%20the%20Array%20Elements%20Equal.cpp)| _O(nlogn)_ | _O(n)_ | Medium | Greedy, Sort |
 
 <!--
 |1808|[Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/)|[C++](./CPP%2C%20C%2B%2B%20Solutions/maximizeNumberOfNiceDivisors/MaximizeNumberOfNiceDivisors.cpp)|Hard|
