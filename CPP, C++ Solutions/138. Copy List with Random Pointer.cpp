@@ -13,9 +13,36 @@ public:
     }
 };
 */
+
+/********************* Method-1 ( Using Hash Table, i.e. Map) *****************
+// TC - O(N) assuming Map access is O(1) avg. 
+// SC - O(N) for Map and new List
+class Solution {
+public:
+    Node* copyRandomList(Node* head) {
+        map<Node*, Node*> m;
+        Node* ptr = head;
+        while (ptr) {
+            m[ptr] =new Node(ptr->val);
+            ptr = ptr->next;
+        }
+        ptr = head;
+        while(ptr) {
+            m[ptr]->next = m[ptr->next];
+            m[ptr]->random = m[ptr->random];
+            ptr = ptr->next;
+        }
+        return m[head];
+    }
+};
+**************************************************************************/
+
+/**************** Method - 2 (Without Map) *************************/
+
 // Simple Linked-List only solution 
 // TC - O(N)
 // SC - O(N) for new Linked List
+
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
