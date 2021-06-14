@@ -31,17 +31,20 @@ public:
         // Base case
         if(amount == 0) return 0;
         if(start == coins.size()) return -1;
-        if(amount < coins[start]) return -1;
         
         // Recursive calls
         if(dp[start+1][amount] == -2)  
             dp[start+1][amount] = coinChangeHelper(coins, amount, start+1, dp);
         
-        if(dp[start][amount-coins[start]] == -2)
+        if(amount-coins[start] >= 0 && dp[start][amount-coins[start]] == -2)
             dp[start][amount-coins[start]] = coinChangeHelper(coins, amount-coins[start], start, dp);
         
         int a = dp[start+1][amount];
-        int b = dp[start][amount-coins[start]];
+        int b;
+        if(amount-coins[start] >= 0)
+            b = dp[start][amount-coins[start]];
+        else b = -1;
+        
         if(a >= 0 && b >= 0) dp[start][amount] = min(a, 1+b);
         else if(b >= 0) dp[start][amount] = b+1;
         else if(a >= 0) dp[start][amount] = a;
@@ -50,7 +53,6 @@ public:
     }
     
     int coinChange(vector<int>& coins, int amount) {
-        sort(coins.begin(), coins.end());
         vector<vector<int>> dp(coins.size()+1, vector<int>(amount+1, -2));
         dp[0][amount] = coinChangeHelper(coins, amount, 0, dp);
         return dp[0][amount];
@@ -126,8 +128,7 @@ public:
 };
 *****************************************************************************************/
     
-// Method -6 optimize approach 4 
-
+// Method -6 optimize approach 4
 class Solution {
 public:
     int coinChange(vector<int>& coins, int amount) {
