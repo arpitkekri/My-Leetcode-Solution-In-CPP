@@ -66,6 +66,7 @@
 |1893|[Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1893.%20Check%20if%20All%20the%20Integers%20in%20a%20Range%20Are%20Covered.cpp)| _O(n<sup>2</sup>)_ | _O(n)_ | Easy | Greedy |
 |1894|[Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk.cpp)| _O(n)_ | _O(1)_ | Medium | Array, Greedy |
 |1895|[Largest Magic Square](https://leetcode.com/problems/largest-magic-square/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1895.%20Largest%20Magic%20Square.cpp)| _O(m<sup>3</sup>n)_ | _O(mn)_ | Medium | Array, DP |
+|1897|[Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1897.%20Redistribute%20Characters%20to%20Make%20All%20Strings%20Equal.cpp)| _O(n<sup>2</sup>)_ | _O(26)_ | Easy | String, Greedy |
 
 <!--
 |1808|[Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/)|[C++](./CPP%2C%20C%2B%2B%20Solutions/maximizeNumberOfNiceDivisors/MaximizeNumberOfNiceDivisors.cpp)|Hard|
