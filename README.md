@@ -64,6 +64,7 @@
 |1888|[Minimum Number of Flips to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1888.%20Minimum%20Number%20of%20Flips%20to%20Make%20the%20Binary%20String%20Alternating.cpp)| _O(n)_ | _O(1)_ | Medium | Array, Greedy |
 |1893|[Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1893.%20Check%20if%20All%20the%20Integers%20in%20a%20Range%20Are%20Covered.cpp)| _O(n<sup>2</sup>)_ | _O(n)_ | Easy | Greedy |
 |1894|[Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1894.%20Find%20the%20Student%20that%20Will%20Replace%20the%20Chalk.cpp)| _O(n)_ | _O(1)_ | Medium | Array, Greedy |
+|1895|[Largest Magic Square](https://leetcode.com/problems/largest-magic-square/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1895.%20Largest%20Magic%20Square.cpp)| _O(m<sup>3</sup>n)_ | _O(mn)_ | Medium | Array, DP |
 
 <!--
 |1808|[Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/)|[C++](./CPP%2C%20C%2B%2B%20Solutions/maximizeNumberOfNiceDivisors/MaximizeNumberOfNiceDivisors.cpp)|Hard|
