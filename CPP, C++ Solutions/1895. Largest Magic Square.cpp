@@ -50,7 +50,7 @@ public:
                     if(firstDiaSum != rowkasum) continue;
                     res = sz;
                 }
-            }
+            } 
         }
         return res;       
     }
