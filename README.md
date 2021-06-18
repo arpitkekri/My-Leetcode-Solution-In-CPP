@@ -49,6 +49,7 @@
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/334.%20Increasing%20Triplet%20Subsequence.cpp)| _O(n)_ | _O(1)_ | Medium | Adhoc |
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/338.%20Counting%20Bits.cpp)| _O(n)_ | _O(n)_ | Easy | DP, Bit Manipulation |
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/357.%20Count%20Numbers%20with%20Unique%20Digits.cpp)| _O(n)_ | _O(1)_ | Medium | Math, DP, Backtracking |
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/392.%20Is%20Subsequence.cpp)| _O(n)_ | _O(1)_ | Easy | Binary Search, DP, Greedy |
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/406.%20Queue%20Reconstruction%20by%20Height.cpp)| _O(n<sup>2</sup>)_ | _O(n)_ | Medium | Greedy |
 |456|[132 Pattern](https://leetcode.com/problems/132-pattern/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/456.%20132%20Pattern.cpp)| _O(n)_ | _O(n)_ | Medium | Stack |
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/518.%20Coin%20Change%202.cpp)| _O(n*amount)_ | _O(amount)_ | Medium | DP |
