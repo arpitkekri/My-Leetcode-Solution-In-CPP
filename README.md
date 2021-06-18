@@ -9,7 +9,6 @@
 
 ## LeetCode Algorithms with Solution
 
-
 - This is a repository for my solutions to the problems on the platform Leetcode in the C++/CPP language.
 
 * Notes: "🔒" means your subscription of [LeetCode premium membership](https://leetcode.com/subscribe/) is required for reading the question.
@@ -44,6 +43,7 @@
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/289.%20Game%20of%20Life.cpp)| _O(mn)_ | _O(1)_ | Medium | Array |
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/295.%20Find%20Median%20from%20Data%20Stream.cpp)| _O(n*logn)_ | _O(n)_ | Hard | Heap, Design |
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)  | [C++](./CPP%2C%20C%2B%2B%20Solutions/300.%20Longest%20Increasing%20Subsequence.cpp)| _O(n<sup>2</sup>)_ | _O(N)_ | Medium | Binary Search, DP |
+|303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)  | [C++](./CPP%2C%20C%2B%2B%20Solutions/303.%20Range%20Sum%20Query%20-%20Immutable.cpp)| _O(n)_ | _O(n)_ | Easy | DP |
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.cpp)| _O(n)_ | _O(1)_ | Medium | DP |
 |322|[Coin Change](https://leetcode.com/problems/coin-change/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/322.%20Coin%20Change.cpp)| _O(n*amount)_ | _O(amount)_ | Medium | DP |
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/334.%20Increasing%20Triplet%20Subsequence.cpp)| _O(n)_ | _O(1)_ | Medium | Adhoc |
@@ -305,7 +305,6 @@
 |307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/rangeSumQuery-Immutable/rangeSumQuery-Mutable/RangeSumQueryMutable.cpp)|Medium|
 |306|[Additive Number](https://leetcode.com/problems/additive-number/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/additiveNumber/AdditiveNumber.cpp)|Medium|
 |304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/rangeSumQuery2D-Immutable/RangeSumQuery2dImmutable.cpp)|Medium|
-|303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)  | [C++](./CPP%2C%20C%2B%2B%20Solutions/rangeSumQuery-Immutable/rangeSumQuery-Immutable.cpp)|Easy|
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/removeInvalidParentheses/RemoveInvalidParentheses.cpp) |Hard|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)  | [C++](./CPP%2C%20C%2B%2B%20Solutions/bullsAndCows/bullsAndCows.cpp)|Easy|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)  | [C++](./CPP%2C%20C%2B%2B%20Solutions/serializeAndDeserializeBinaryTree/SerializeAndDeserializeBinaryTree.cpp)|Medium|
