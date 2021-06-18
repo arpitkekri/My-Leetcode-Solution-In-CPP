@@ -55,6 +55,7 @@
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | [C++](./CPP%2C%20C%2B%2B%20Solutions/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.cpp)| _O(n)_ | _O(1)_ | Medium | Array, DP, Greedy |
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/746.%20Min%20Cost%20Climbing%20Stairs.cpp)| _O(n)_ | _O(1)_ | Easy | Array, DP |
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/973.%20K%20Closest%20Points%20to%20Origin.cpp)| _O(n + klogn)_ | _O(n<sup>2</sup>)_ | Medium | DnC, Sort, Heap |
+|1025|[Divisor Game](https://leetcode.com/problems/divisor-game/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1025.%20Divisor%20Game.cpp)| _O(1)_ | _O(1)_ | Easy | Math, DP |
 |1027|[Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) |  [C++](./CPP%2C%20C%2B%2B%20Solutions/1027.%20Longest%20Arithmetic%20Subsequence.cpp)| _O(n<sup>2</sup>)_ | _O(n<sup>2</sup>)_ | Medium | DP |  
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1108.%20Defanging%20an%20IP%20Address.cpp)| _O(n)_ | _O(n)_ | Easy | String |
 |1402|[Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1402.%20Reducing%20Dishes.cpp)| _O(nlogn)_ | _O(1)_ | Hard | DP |
