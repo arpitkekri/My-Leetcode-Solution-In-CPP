@@ -1,4 +1,4 @@
-// TC - O(n*k)
+// TC - O(n*k) -> K = number of character
 // SC - O(2*k) = O(k)
 class Solution {
 public:
