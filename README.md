@@ -53,6 +53,7 @@
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/518.%20Coin%20Change%202.cpp)| _O(n*amount)_ | _O(amount)_ | Medium | DP |
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/665.%20Non-decreasing%20Array.cpp)| _O(n)_ | _O(1)_ | Medium | Array |
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | [C++](./CPP%2C%20C%2B%2B%20Solutions/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.cpp)| _O(n)_ | _O(1)_ | Medium | Array, DP, Greedy |
+|746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/746.%20Min%20Cost%20Climbing%20Stairs.cpp)| _O(n)_ | _O(1)_ | Easy | Array, DP |
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/973.%20K%20Closest%20Points%20to%20Origin.cpp)| _O(n + klogn)_ | _O(n<sup>2</sup>)_ | Medium | DnC, Sort, Heap |
 |1027|[Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) |  [C++](./CPP%2C%20C%2B%2B%20Solutions/1027.%20Longest%20Arithmetic%20Subsequence.cpp)| _O(n<sup>2</sup>)_ | _O(n<sup>2</sup>)_ | Medium | DP |  
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1108.%20Defanging%20an%20IP%20Address.cpp)| _O(n)_ | _O(n)_ | Easy | String |
@@ -195,7 +196,6 @@
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/uniqueMorseCodeWords/UniqueMorseCodeWords.cpp)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description) | [C++](./CPP%2C%20C%2B%2B%20Solutions/jewelsAndStones/JewelsAndStones.cpp)|Easy|
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [Python](./algorithms/python/LargestNumberAtLeastTwiceOfOthers/dominantIndex.py)|Easy|
-|746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/minCostClimbingStairs/MinCostClimbingStairs.cpp), [Python](./algorithms/python/MinCostClimbingStairs/minCostClimbingStairs.py)|Easy|
 |721|[Accounts Merge](https://leetcode.com/problems/accounts-merge/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/accountsMerge/AccountsMerge.cpp)|Medium|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | [Python](./algorithms/python/1-bitAnd2-bitCharacters/isOneBitCharacter.py)|Easy|
 |712|[Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/minimumASCIIDeleteSumForTwoStrings/MinimumAsciiDeleteSumForTwoStrings.cpp)|Medium|
