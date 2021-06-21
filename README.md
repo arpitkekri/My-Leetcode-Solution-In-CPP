@@ -45,6 +45,7 @@
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)  | [C++](./CPP%2C%20C%2B%2B%20Solutions/300.%20Longest%20Increasing%20Subsequence.cpp)| _O(n<sup>2</sup>)_ | _O(N)_ | Medium | Binary Search, DP |
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)  | [C++](./CPP%2C%20C%2B%2B%20Solutions/303.%20Range%20Sum%20Query%20-%20Immutable.cpp)| _O(n)_ | _O(n)_ | Easy | DP |
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.cpp)| _O(n)_ | _O(1)_ | Medium | DP |
+|312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/312.%20Burst%20Balloons.cpp)| _O(n<sup>3</sup>)_ | _O(n<sup>2</sup>)_ | 🔴 Hard | DnC, DP |
 |322|[Coin Change](https://leetcode.com/problems/coin-change/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/322.%20Coin%20Change.cpp)| _O(n*amount)_ | _O(amount)_ | Medium | DP |
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/334.%20Increasing%20Triplet%20Subsequence.cpp)| _O(n)_ | _O(1)_ | Medium | Adhoc |
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/338.%20Counting%20Bits.cpp)| _O(n)_ | _O(n)_ | Easy | DP, Bit Manipulation |
@@ -301,7 +302,6 @@
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/removeDuplicateLetters/RemoveDuplicateLetters.cpp)|Hard|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/countOfSmallerNumbersAfterSelf/countOfSmallerNumbersAfterSelf.cpp)|Hard|
 |313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/superUglyNumber/SuperUglyNumber.cpp)|Medium|
-|312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/burstBalloons/BurstBalloons.cpp)|Hard|
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/minimumHeightTrees/MinimumHeightTrees.cpp)|Medium|
 |307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/rangeSumQuery-Immutable/rangeSumQuery-Mutable/RangeSumQueryMutable.cpp)|Medium|
 |306|[Additive Number](https://leetcode.com/problems/additive-number/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/additiveNumber/AdditiveNumber.cpp)|Medium|
