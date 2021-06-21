@@ -55,6 +55,7 @@
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/392.%20Is%20Subsequence.cpp)| _O(n)_ | _O(1)_ | 🟢 | Binary Search, DP, Greedy |
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/406.%20Queue%20Reconstruction%20by%20Height.cpp)| _O(n<sup>2</sup>)_ | _O(n)_ | 🟠 | Greedy |
 |456|[132 Pattern](https://leetcode.com/problems/132-pattern/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/456.%20132%20Pattern.cpp)| _O(n)_ | _O(n)_ | 🟠 | Stack |
+|516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/516.%20Longest%20Palindromic%20Subsequence.cpp)| _O(n<sup>2</sup>)_ | _O(n)_ | 🟠 | DP |
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/518.%20Coin%20Change%202.cpp)| _O(n*amount)_ | _O(amount)_ | 🟠 | DP |
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/665.%20Non-decreasing%20Array.cpp)| _O(n)_ | _O(1)_ | 🟠 | Array |
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | [C++](./CPP%2C%20C%2B%2B%20Solutions/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.cpp)| _O(n)_ | _O(1)_ | 🟠 | Array, DP, Greedy |
@@ -230,7 +231,6 @@
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Python](./algorithms/python/ConvertBSTtoGreaterTree/convertBST.py)|Easy|
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [Python](./algorithms/python/K-diffPairsInAnArray/findPairs.py)|Easy|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/detectCapital/DetectCapital.cpp)|Easy|
-|516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/longestPalindromicSubsequence/LongestPalindromicSubsequence.cpp)|Medium|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/fibonacciNumber/FibonacciNumber.cpp), [Python](./algorithms/python/FibonacciNumber/fib.py)|Easy|
 |497|[Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/randomPointInNonOverlappingRectangles/randomPointInNonOverlappingRectangles.cpp)|Medium|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/targetSum/targetSum.cpp)|Medium|
