@@ -17,7 +17,7 @@
 | # |Title|Solution|Time|Space|Difficulty| Tag |
 |---|-----| ------ | -- | --- | -------- | --- | -->
 | # | Title | Solution | Time | Space | Difficulty | Tag |
-|---| ----- |--| --- | ---- | ------------ | ---- |
+|---| ----- |--| --- | ---- | ---------------------- | ---- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/1.%20Two%20Sum_1.cpp) | _O(n<sup>2</sup>)_ | _O(n)_ | 🟢Easy | Array, Hash Table |
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/8.%20String%20to%20Integer%20(atoi).cpp)| _O(n)_ | _O(n)_ | 🟠Medium | Math, String |
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/23.%20Merge%20k%20Sorted%20Lists.cpp)| _O(n*logK)_ | _O(K)_ | 🔴Hard | Linked List, DnC, Heap |
