@@ -84,6 +84,7 @@
 |1899|[Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1899.%20Merge%20Triplets%20to%20Form%20Target%20Triplet.cpp)| _O(n)_ | _O(1)_ | 🟠 | Greedy |
 |1903|[Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1903.%20Largest%20Odd%20Number%20in%20String.cpp)| _O(n)_ | _O(1)_ | 🟢 | Greedy |
 |1904|[The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1904.%20The%20Number%20of%20Full%20Rounds%20You%20Have%20Played.cpp)| _O(1)_ | _O(1)_ | 🟠 | String, Greedy |
+|1905|[Count Sub Islands](https://leetcode.com/problems/count-sub-islands/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1905.%20Count%20Sub%20Islands.cpp)| _O(nm)_ | _O(nm)_ | 🟠 | DFS, Union Find |
 
 <!--
 |1808|[Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/)|[C++](./CPP%2C%20C%2B%2B%20Solutions/maximizeNumberOfNiceDivisors/MaximizeNumberOfNiceDivisors.cpp)|Hard|
