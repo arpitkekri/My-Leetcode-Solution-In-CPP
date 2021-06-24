@@ -25,7 +25,8 @@
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/23.%20Merge%20k%20Sorted%20Lists.cpp)| _O(n*logK)_ | _O(K)_ | 🔴 | Linked List, DnC, Heap |
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/32.%20Longest%20Valid%20Parentheses.cpp) | _O(n)_ | _O(1)_ | 🔴 | String, DP |
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/37.%20Sudoku%20Solver.cpp)| _O(9<sup>n*n</sup>)_ | _O(n<sup>2</sup>)_ | 🔴 | Hash Table, BackTracking |
-|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/53.%20Maximum%20Subarray.cpp)| _O(n)_ | _O(1)_ | 🟢 | Array, DnC, DP | 
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/53.%20Maximum%20Subarray.cpp)| _O(n)_ | _O(1)_ | 🟢 | Array, DnC, DP |
+|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/64.%20Minimum%20Path%20Sum.cpp)| _O(mn)_ | _O(n)_ | 🟠 | Array, DP, Matrix |
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/70.%20Climbing%20Stairs.cpp)| _O(n)_ | _O(1)_ | 🟢 | DP |
 |78|[Subsets](https://leetcode.com/problems/subsets/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/78.%20Subsets.cpp)| _O(2^n+1)_ | _O(2^n)_ | 🟠 | Array, Backtracking, Bit Manipulation |
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/90.%20Subsets%20II.cpp)| _O(nlonn + 2^n+1)_ | _O(2^n)_ | 🟠 | Array, Backtracking |
@@ -489,7 +490,6 @@
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/addBinary/addBinary.cpp)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/plusOne/plusOne.cpp)|Easy|
 |65|[Valid Number](https://leetcode.com/problems/valid-number/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/validNumber/validNumber.cpp)|Easy|
-|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/minimumPathSum/minimumPathSum.cpp), [Java](./algorithms/java/src/dynamicProgramming/minimumPathSum/minimumPathSum.java)|Medium|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/uniquePaths/uniquePaths.II.cpp), [Java](./algorithms/java/src/dynamicProgramming/uniquePaths/uniquePathsII.java)|Medium|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/uniquePaths/uniquePaths.cpp), [Java](./algorithms/java/src/dynamicProgramming/uniquePaths/uniquePaths.java)|Medium|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/rotateList/rotateList.cpp)|Medium|
