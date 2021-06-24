@@ -60,6 +60,7 @@
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/665.%20Non-decreasing%20Array.cpp)| _O(n)_ | _O(1)_ | 🟠 | Array |
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | [C++](./CPP%2C%20C%2B%2B%20Solutions/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.cpp)| _O(n)_ | _O(1)_ | 🟠 | Array, DP, Greedy |
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/746.%20Min%20Cost%20Climbing%20Stairs.cpp)| _O(n)_ | _O(1)_ | 🟢 | Array, DP |
+|792|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/792.%20Number%20of%20Matching%20Subsequences.cpp)| _O(mlogn)_ | _O(n)_ | 🟠 | Hash Table, String, Trie, Sorting |
 |877|[Stone Game](https://leetcode.com/problems/stone-game/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/877.%20Stone%20Game.cpp)| _O(1)_ | _O(1)_ | 🟠 | Math, DP, Minimax |
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/973.%20K%20Closest%20Points%20to%20Origin.cpp)| _O(n + klogn)_ | _O(n<sup>2</sup>)_ | 🟠 | DnC, Sort, Heap |
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1025.%20Divisor%20Game.cpp)| _O(1)_ | _O(1)_ | 🟢 | Math, DP |
