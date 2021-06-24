@@ -38,6 +38,7 @@
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/140.%20Word%20Break%20II.cpp)| _O(M^N)_ | _O(N)_ | 🔴 | DP, BackTracking |
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/151.%20Reverse%20Words%20in%20a%20String.cpp)| _O(n)_ | _O(1)_ | 🟠 | String |
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/152.%20Maximum%20Product%20Subarray.cpp)| _O(n)_ | _O(1)_ | 🟠 | Array, DP |
+|174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/174.%20Dungeon%20Game.cpp)| _O(mn)_ | _O(n)_ | 🔴 | Array, DP, Matrix |
 |198|[House Robber](https://leetcode.com/problems/house-robber/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/198.%20House%20Robber.cpp)| _O(n)_ | _O(1)_ | 🟠 | DP |
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/213.%20House%20Robber%20II.cpp)| _O(n)_ | _O(1)_ | 🟠 | DP |
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/215.%20Kth%20Largest%20Element%20in%20an%20Array.cpp)| _O(n*logK)_ | _O(K)_ | 🟠 | DnC, Heap |
@@ -388,7 +389,6 @@
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/repeatedDNASequences/repeatedDNASequences.cpp)|Medium|
 |186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) 🔒 | [C++](./CPP%2C%20C%2B%2B%20Solutions/reverseWordsInAString/reverseWordsInAString.II.cpp)|Medium|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/largestNumber/largestNumber.cpp)|Medium|
-|174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/dungeonGame/dungeonGame.cpp)|Hard|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/binarySearchTreeIterator/binarySearchTreeIterator.cpp), [Java](./algorithms/java/src/binarySearchTreeIterator/binarySearchTreeIterator.java), [Python](./algorithms/python/BinarySearchTreeIterator/BSTIterator.py)|Medium|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/factorialTrailingZeroes/factorialTrailingZeroes.cpp)|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/excelSheetColumnNumber/excelSheetColumnNumber.cpp)|Easy|
