@@ -17,7 +17,6 @@ public:
             
             item += v[i] + " ";
         }
-        
         return item.substr(0, item.size()-1);
     }
 };
