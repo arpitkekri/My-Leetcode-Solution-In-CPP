@@ -69,6 +69,7 @@
 |792|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/792.%20Number%20of%20Matching%20Subsequences.cpp)| _O(mlogn)_ | _O(n)_ | 🟠 | Hash Table, String, Trie, Sorting |
 |877|[Stone Game](https://leetcode.com/problems/stone-game/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/877.%20Stone%20Game.cpp)| _O(1)_ | _O(1)_ | 🟠 | Math, DP, Minimax |
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/973.%20K%20Closest%20Points%20to%20Origin.cpp)| _O(n + klogn)_ | _O(n<sup>2</sup>)_ | 🟠 | DnC, Sort, Heap |
+|990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/990.%20Satisfiability%20of%20Equality%20Equations.cpp)| _O(n)_ | _O(n)_ | 🟠 | Array, String, Union Find, Graph | 
 |1025|[Divisor Game](https://leetcode.com/problems/divisor-game/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1025.%20Divisor%20Game.cpp)| _O(1)_ | _O(1)_ | 🟢 | Math, DP |
 |1027|[Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) |  [C++](./CPP%2C%20C%2B%2B%20Solutions/1027.%20Longest%20Arithmetic%20Subsequence.cpp)| _O(n<sup>2</sup>)_ | _O(n<sup>2</sup>)_ | 🟠 | DP |  
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1108.%20Defanging%20an%20IP%20Address.cpp)| _O(n)_ | _O(n)_ | 🟢 | String |
@@ -184,7 +185,6 @@
 |1024|[Video Stitching](https://leetcode.com/problems/video-stitching/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/videoStitching/VideoStitching.cpp)|Medium|
 |993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/cousinsInBinaryTree/CousinsInBinaryTree.cpp)|Easy|
 |991|[Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/brokenCalculator/BrokenCalculator.cpp)|Medium|
-|990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/satisfiabilityOfEqualityEquations/SatisfiabilityOfEqualityEquations.cpp)|Medium|
 |989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/addToArrayFormOfInteger/AddToArrayFormOfInteger.cpp)|Easy|
 |988|[Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/smallestStringStartingFromLeaf/SmallestStringStartingFromLeaf.cpp)|Medium|
 |987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/verticalOrderTraversalOfABinaryTree/VerticalOrderTraversalOfABinaryTree.cpp)|Medium|
