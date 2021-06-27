@@ -99,6 +99,7 @@
 |1910|[Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1910.%20Remove%20All%20Occurrences%20of%20a%20Substring.cpp)| _O(nm)_ | _O(m)_ | 🟠 | String |
 |1911|[Maximum Alternating Subsequence Sum](https://leetcode.com/problems/maximum-alternating-subsequence-sum/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1911.%20Maximum%20Alternating%20Subsequence%20Sum.cpp)| _O(n)_ | _O(n)_ | 🟠 | DP |
 |1913|[Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs.cpp)| _O(nlogn)_ | _O(1)_ | 🟢 | Sort |
+|1914|[Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1914.%20Cyclically%20Rotating%20a%20Grid.cpp)| _O(n)_ | _O(n)_ | 🟠 | Array |
 
 <!--
 |1808|[Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/)|[C++](./CPP%2C%20C%2B%2B%20Solutions/maximizeNumberOfNiceDivisors/MaximizeNumberOfNiceDivisors.cpp)|Hard|
