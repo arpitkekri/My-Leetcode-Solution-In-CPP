@@ -22,6 +22,7 @@
 |---| ----- |--| --- | ---- | ---- | ---- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/1.%20Two%20Sum_1.cpp) | _O(n<sup>2</sup>)_ | _O(n)_ | 🟢 | Array, Hash Table |
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/8.%20String%20to%20Integer%20(atoi).cpp)| _O(n)_ | _O(n)_ | 🟠 | Math, String |
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/20.%20Valid%20Parentheses.cpp)| _O(n)_ | _O(n)_ | 🟢 | String, Stack |
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/23.%20Merge%20k%20Sorted%20Lists.cpp)| _O(n*logK)_ | _O(K)_ | 🔴 | Linked List, DnC, Heap |
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/32.%20Longest%20Valid%20Parentheses.cpp) | _O(n)_ | _O(1)_ | 🔴 | String, DP |
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/37.%20Sudoku%20Solver.cpp)| _O(9<sup>n*n</sup>)_ | _O(n<sup>2</sup>)_ | 🔴 | Hash Table, BackTracking |
@@ -530,7 +531,6 @@
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/mergeKSortedLists/mergeKSortedLists.cpp)|Hard|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/generateParentheses/generateParentheses.cpp)|Medium|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/mergeTwoSortedList/mergeTwoSortedList.cpp)|Easy|
-|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/validParentheses/validParentheses.cpp)|Easy|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/removeNthNodeFromEndOfList/removeNthNodeFromEndOfList.cpp), [Python](./algorithms/python/RemoveNthNodeFromEndOfList/removeNthFromEnd.py)|Easy|
 |18|[4Sum](https://leetcode.com/problems/4sum/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/4Sum/4Sum.cpp)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/letterCombinationsOfAPhoneNumber/letterCombinationsOfAPhoneNumber.cpp)|Medium|
