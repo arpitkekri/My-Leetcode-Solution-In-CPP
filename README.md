@@ -33,6 +33,7 @@
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/90.%20Subsets%20II.cpp)| _O(nlonn + 2^n+1)_ | _O(2^n)_ | 🟠 | Array, Backtracking |
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/91.%20Decode%20Ways.cpp)| _O(n)_ | _O(1)_ | 🟠 | String, DP |
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)| _O(n)_ | _O(1)_ | 🟢 | Array, DP |
+|133|[Clone Graph](https://leetcode.com/problems/clone-graph/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/133.%20Clone%20Graph.cpp)| _O(n)_ | _O(n)_ | 🟠 | Hash Table, DFS, BFS, Graph |
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/134.%20Gas%20Station.cpp)| _O(n)_ | _O(1)_ | 🟠 | Greedy |
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/138.%20Copy%20List%20with%20Random%20Pointer.cpp)| _O(N)_ | _O(N)_ | 🔴 | Hash Table, Linked List |
 |139|[Word Break](https://leetcode.com/problems/word-break/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/139.%20Word%20Break.cpp)| _O(n<sup>2</sup>)_ | _O(n)_ | 🟠 | DP |
@@ -426,7 +427,6 @@
 |136|[Single Number](https://leetcode.com/problems/single-number/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/singleNumber/singleNumber.cpp)|Medium|
 |135|[Candy](https://leetcode.com/problems/candy/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/candy/candy.cpp)|Hard|
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/gasStation/gasStation.cpp)|Medium|
-|133|[Clone Graph](https://leetcode.com/problems/clone-graph/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/cloneGraph/cloneGraph.cpp)|Medium|
 |132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/palindromePartitioning/palindromePartitioning.II.cpp)|Hard|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/palindromePartitioning/palindromePartitioning.cpp)|Medium|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/surroundedRegions/surroundedRegions.cpp)|Medium|
