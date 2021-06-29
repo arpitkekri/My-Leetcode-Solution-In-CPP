@@ -9,16 +9,19 @@ public:
         int f = 1;
         while(f) {
             int count = 0;
-            for(int i = 0; i < n; i++) {
+            for(int i = 0; i < n;) {
                 if(s[i] == part[0]) {
                     // O(m) extra space for temp
                     string temp = s.substr(i, m);
                     if(temp == part) {
                         count++;
                         s = s.substr(0, i) + s.substr(i+m);
-                        n = s.size(); 
+                        n = s.size();
+                        i = max(0, i-m+1);
                      }
+                    else i++;
                 }
+                else i++;
             }
            if(count == 0) f = 0; 
         }
