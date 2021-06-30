@@ -32,6 +32,8 @@
 |78|[Subsets](https://leetcode.com/problems/subsets/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/78.%20Subsets.cpp)| _O(2^n+1)_ | _O(2^n)_ | 🟠 | Array, Backtracking, Bit Manipulation |
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/90.%20Subsets%20II.cpp)| _O(nlonn + 2^n+1)_ | _O(2^n)_ | 🟠 | Array, Backtracking |
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/91.%20Decode%20Ways.cpp)| _O(n)_ | _O(1)_ | 🟠 | String, DP |
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/118.%20Pascal's%20Triangle.cpp)| _(n<sup>2</sup>)_ | _(n<sup>2</sup>)_ | 🟢 | Array, DP |
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/.cpp)| _O()_ | _O()_ | 🟢 | Array, DP |
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)| _O(n)_ | _O(1)_ | 🟢 | Array, DP |
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/133.%20Clone%20Graph.cpp)| _O(n)_ | _O(n)_ | 🟠 | Hash Table, DFS, BFS, Graph |
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/134.%20Gas%20Station.cpp)| _O(n)_ | _O(1)_ | 🟠 | Greedy |
@@ -447,8 +449,6 @@
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/bestTimeToBuyAndSellStock/bestTimeToBuyAndSellStock.III.cpp)|Hard|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/bestTimeToBuyAndSellStock/bestTimeToBuyAndSellStock.II.cpp)|Medium|
 |120|[Triangle](https://leetcode.com/problems/triangle/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/triangle/triangle.cpp), [Java](./algorithms/java/src/dynamicProgramming/triangle/triangle.java)|Medium|
-|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/pascalTriangle/pascalTriangle.II.cpp)|Easy|
-|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/pascalTriangle/pascalTriangle.cpp)|Easy|
 |117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/populatingNextRightPointersInEachNode/populatingNextRightPointersInEachNode.II.cpp), [Python](./algorithms/python/PopulatingNextRightPointersInEachNodeII/connect.py)|Hard|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/populatingNextRightPointersInEachNode/populatingNextRightPointersInEachNode.cpp), [Python](./algorithms/python/PopulatingNextRightPointersInEachNode/connect.py)|Medium|
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/distinctSubsequences/distinctSubsequences.cpp)|Hard|
