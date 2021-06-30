@@ -33,7 +33,7 @@
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/90.%20Subsets%20II.cpp)| _O(nlonn + 2^n+1)_ | _O(2^n)_ | 🟠 | Array, Backtracking |
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/91.%20Decode%20Ways.cpp)| _O(n)_ | _O(1)_ | 🟠 | String, DP |
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/118.%20Pascal's%20Triangle.cpp)| _(n<sup>2</sup>)_ | _(n<sup>2</sup>)_ | 🟢 | Array, DP |
-|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/.cpp)| _O()_ | _O()_ | 🟢 | Array, DP |
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/119.%20Pascal's%20Triangle%20II.cpp)| _O(n)_ | _O(n)_ | 🟢 | Array, DP |
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)| _O(n)_ | _O(1)_ | 🟢 | Array, DP |
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/133.%20Clone%20Graph.cpp)| _O(n)_ | _O(n)_ | 🟠 | Hash Table, DFS, BFS, Graph |
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/134.%20Gas%20Station.cpp)| _O(n)_ | _O(1)_ | 🟠 | Greedy |
