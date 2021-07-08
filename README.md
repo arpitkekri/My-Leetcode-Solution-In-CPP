@@ -30,6 +30,7 @@
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/64.%20Minimum%20Path%20Sum.cpp)| _O(mn)_ | _O(n)_ | 🟠 | Array, DP, Matrix |
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/70.%20Climbing%20Stairs.cpp)| _O(n)_ | _O(1)_ | 🟢 | DP |
 |78|[Subsets](https://leetcode.com/problems/subsets/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/78.%20Subsets.cpp)| _O(2^n+1)_ | _O(2^n)_ | 🟠 | Array, Backtracking, Bit Manipulation |
+|89|[Gray Code](https://leetcode.com/problems/gray-code/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/89.%20Gray%20Code.cpp)| _(2<sup>n</sup>)_ | _(2<sup>n</sup>)_ | 🟠 | Math, BackTracking, Bit Manipulation |
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/90.%20Subsets%20II.cpp)| _O(nlonn + 2^n+1)_ | _O(2^n)_ | 🟠 | Array, Backtracking |
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/91.%20Decode%20Ways.cpp)| _O(n)_ | _O(1)_ | 🟠 | String, DP |
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/118.%20Pascal's%20Triangle.cpp)| _(n<sup>2</sup>)_ | _(n<sup>2</sup>)_ | 🟢 | Array, DP |
@@ -475,7 +476,6 @@
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/binaryTreeInorderTraversal/binaryTreeInorderTraversal.cpp)|Medium|
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/restoreIPAddresses/restoreIPAddresses.cpp)|Medium|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/reverseLinkedList/reverseLinkedList.II.cpp), [Java](./algorithms/java/src/reverseLinkedListII/ReverseLinkedListII.java), [Python](./algorithms/python/ReverseLinkedListII/reverseBetween.py)|Medium|
-|89|[Gray Code](https://leetcode.com/problems/gray-code/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/grayCode/grayCode.cpp)|Medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/mergeTwoSortedArray/mergeTwoSortedArray.cpp)|Easy|
 |87|[Scramble String](https://leetcode.com/problems/scramble-string/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/scrambleString/scrambleString.cpp)|Hard|
 |86|[Partition List](https://leetcode.com/problems/partition-list/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/partitionList/partitionList.cpp), [Python](./algorithms/python/PartitionList/partition.py)|Medium|
