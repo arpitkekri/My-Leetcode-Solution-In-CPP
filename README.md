@@ -46,7 +46,7 @@
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/174.%20Dungeon%20Game.cpp)| _O(mn)_ | _O(n)_ | 🔴 | Array, DP, Matrix |
 |198|[House Robber](https://leetcode.com/problems/house-robber/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/198.%20House%20Robber.cpp)| _O(n)_ | _O(1)_ | 🟠 | DP |
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/213.%20House%20Robber%20II.cpp)| _O(n)_ | _O(1)_ | 🟠 | DP |
-|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/215.%20Kth%20Largest%20Element%20in%20an%20Array.cpp)| _O(n*logK)_ | _O(K)_ | 🟠 | DnC, Heap |
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/215.%20Kth%20Largest%20Element%20in%20an%20Array.cpp)| _O(n*logK)_ | _O(K)_ | 🟠 | Array, DnC, Heap(PQ),  Sorting, Quickselect |
 |256|[Paint House](https://leetcode.com/problems/paint-house/)🔒|[C++](./CPP%2C%20C%2B%2B%20Solutions/256.%20Paint%20House.cpp)| _O(n)_ | _O(1)_ | 🟠 | DP |
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)| [C++](./CPP%2C%20C%2B%2B%20Solutions/264.%20Ugly%20Number%20II.cpp)| _O(n*logn)_ | _O(n)_ | 🟠 | Math, DP, Heap |
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/289.%20Game%20of%20Life.cpp)| _O(mn)_ | _O(1)_ | 🟠 | Array |
