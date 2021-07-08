@@ -66,6 +66,7 @@
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/516.%20Longest%20Palindromic%20Subsequence.cpp)| _O(n<sup>2</sup>)_ | _O(n)_ | 🟠 | DP |
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/518.%20Coin%20Change%202.cpp)| _O(n*amount)_ | _O(amount)_ | 🟠 | DP |
 |547|[Friend Circles](https://leetcode.com/problems/friend-circles/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/547.%20Number%20of%20Provinces.cpp)| _O(n)_ | _O(n)_ | 🟠 | DFS, BFS, Union Find, Graph |
+|566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/566.%20Reshape%20the%20Matrix.cpp)| _O(mn)_ | _O(rc)_ | 🟢 | Array, Matrix, Simulation |
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/665.%20Non-decreasing%20Array.cpp)| _O(n)_ | _O(1)_ | 🟠 | Array |
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | [C++](./CPP%2C%20C%2B%2B%20Solutions/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.cpp)| _O(n)_ | _O(1)_ | 🟠 | Array, DP, Greedy |
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/746.%20Min%20Cost%20Climbing%20Stairs.cpp)| _O(n)_ | _O(1)_ | 🟢 | Array, DP |
