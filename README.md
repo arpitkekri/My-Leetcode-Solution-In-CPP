@@ -113,6 +113,7 @@
 |1913|[Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs.cpp)| _O(nlogn)_ | _O(1)_ | 🟢 | Sort |
 |1914|[Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1914.%20Cyclically%20Rotating%20a%20Grid.cpp)| _O(n)_ | _O(n)_ | 🟠 | Array |
 |1920|[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1920.%20Build%20Array%20from%20Permutation.cpp)| _O(n)_ | _O(1)_ | 🟢 | Array, Simulation |
+|1921|[Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/) | [C++](./CPP%2C%20C%2B%2B%20Solutions/1921.%20Eliminate%20Maximum%20Number%20of%20Monsters.cpp)| _O(nlogn)_ | _O(1)_ | 🟠 | Array, Greedy, Sorting |
 
 <!--
 |1808|[Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/)|[C++](./CPP%2C%20C%2B%2B%20Solutions/maximizeNumberOfNiceDivisors/MaximizeNumberOfNiceDivisors.cpp)|Hard|
