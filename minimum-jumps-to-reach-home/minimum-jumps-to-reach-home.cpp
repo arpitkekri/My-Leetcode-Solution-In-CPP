@@ -17,7 +17,7 @@ public:
             
             if(t[0] + a == x) return t[1] + 1;
             
-            if(t[0] + a >= 0 && t[0] + a <= 100000 && notAllowed.find(t[0] + a) == notAllowed.end() && visited.find({t[0]+a, 1}) == visited.end()) {
+            if(t[0] + a >= 0 && t[0] + a <= 10000 && notAllowed.find(t[0] + a) == notAllowed.end() && visited.find({t[0]+a, 1}) == visited.end()) {
                 visited.insert({t[0]+a, 1});
                 q.push({t[0]+a, t[1] + 1, 1});
             }
