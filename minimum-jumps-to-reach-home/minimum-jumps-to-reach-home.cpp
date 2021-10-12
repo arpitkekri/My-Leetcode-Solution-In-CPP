@@ -1,33 +1,30 @@
 class Solution {
 public:
-    int minimumJumps(vector<int>& forbidden, int a, int b, int x) {
-        if(x ==  0) return 0;
-        unordered_set<int> notAllowed(forbidden.begin(), forbidden.end());
+    int helper(set<int> &s, int curr, int a, int b, int x, bool isBackAllow, vector<vector<int>> &dp) {
+        // Base case
+        if(curr == x) return 0;
+        if(curr < 0 || curr > 6000 || s.find(curr) != s.end())
+            return 1e9;
         
-        // pos, steps, backAllowed
-        queue<vector<int>> q;
-        q.push({0, 0, 1});
+        // if exist than return
+        if(dp[curr][isBackAllow] != -1)
+            return dp[curr][isBackAllow];
         
-        set<pair<int, int>> visited;
-        visited.insert({0, 1});
+        // go forward
+        dp[curr][isBackAllow] = 1 + helper(s, curr + a, a, b, x, 1, dp);
         
-        while(!q.empty()) {
-            vector<int> t = q.front();
-            q.pop();
-            
-            if(t[0] + a == x) return t[1] + 1;
-            
-            if(t[0] + a >= 0 && t[0] + a <= 10000 && notAllowed.find(t[0] + a) == notAllowed.end() && visited.find({t[0]+a, 1}) == visited.end()) {
-                visited.insert({t[0]+a, 1});
-                q.push({t[0]+a, t[1] + 1, 1});
-            }
-            if(t[2] == 1 && t[0] - b == x) return t[1] + 1;
-            
-            if(t[2] == 1 && t[0]-b >= 0 && notAllowed.find(t[0]-b) == notAllowed.end() && visited.find({t[0]-b, 0}) == visited.end()) {
-                visited.insert({t[0]-b, 0});
-                q.push({t[0]-b, t[1] + 1, 0});
-            }
+        // go back
+        if(isBackAllow) {
+            dp[curr][isBackAllow] = min(dp[curr][isBackAllow], 1 + helper(s, curr-b, a, b, x, 0, dp));
         }
-        return -1;
+        return dp[curr][isBackAllow];
+    }
+    int minimumJumps(vector<int>& forbidden, int a, int b, int x) {
+        if(x == 0) return 0;
+        set<int> s(forbidden.begin(), forbidden.end());
+        vector<vector<int>> dp(8000, vector<int>(2, -1));
+        int res = helper(s, 0, a, b, x, 1, dp);
+        if(res > 1e9) return -1;
+        return res;
     }
 };
