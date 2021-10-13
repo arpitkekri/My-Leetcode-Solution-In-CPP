@@ -18,6 +18,6 @@ public:
         return helper(root->left, maxLeft, root->val) && helper(root->right, root->val, minRight);
     }
     bool isValidBST(TreeNode* root) {
-        return helper(root, LLONG_MIN, LLONG_MAX);
+        return helper(root, LONG_MIN, LONG_MAX);
     }
 };
