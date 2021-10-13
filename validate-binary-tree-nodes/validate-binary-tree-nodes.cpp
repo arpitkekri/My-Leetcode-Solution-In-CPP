@@ -14,23 +14,14 @@ public:
                 if(p1 == p2)
                     return false;
                 parent[leftChild[i]] = i;
-        
-                // if(parent[leftChild[i]] != -1 && parent[leftChild[i]] != i)
-                    // return false;
-                // parent[leftChild[i]] = i;
             }
             if(rightChild[i] != -1) {
-                // if(parent[rightChild[i]] != -1 && parent[rightChild[i]] != i)
-                    // return false;
-                // parent[rightChild[i]] = i;
-               
                 p2 = find(rightChild[i], parent);
                 if(p1 == p2)
                     return false;
                 parent[rightChild[i]] = i;
             }
         }
-        
         int count = 0;
         for(int i = 0; i < n; i++) {
             if(parent[i] == -1) count++;
