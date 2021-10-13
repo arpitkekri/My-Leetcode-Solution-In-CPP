@@ -12,14 +12,14 @@
 class Solution {
 public:
     TreeNode* helper(vector<int> &preorder, int &pos, int maxLeft, int minRight) {
-        if(pos+1 >= preorder.size())
+        if(pos >= preorder.size())
             return NULL;
         
-        if(maxLeft > preorder[pos+1] || preorder[pos+1] > minRight)
+        if(maxLeft > preorder[pos] || preorder[pos] > minRight)
             return NULL;
         
-        if(maxLeft < preorder[pos+1] && preorder[pos+1] < minRight) {
-            TreeNode * root = new TreeNode(preorder[pos+1]);
+        if(maxLeft < preorder[pos] && preorder[pos] < minRight) {
+            TreeNode * root = new TreeNode(preorder[pos]);
             pos++;
             root -> left = helper(preorder, pos, maxLeft, root -> val);
             root -> right = helper(preorder, pos, root -> val, minRight);
@@ -28,7 +28,7 @@ public:
         return NULL;
     }
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        int pos = -1;
+        int pos = 0;
         return helper(preorder, pos, INT_MIN, INT_MAX);
     }
 };
